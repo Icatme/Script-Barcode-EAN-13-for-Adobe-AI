@@ -1,7 +1,7 @@
 ﻿// Создание штрихкода EAN-13 v 2.0 RC
 // (с) 2010-2011. Ягупов Дмитрий
 // www.za-vod.ru
-// info@za-vod.ru
+// info@za-vod.ru    
 
 
 // Create Barcode EAN-13 v 2.0
